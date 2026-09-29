@@ -1,0 +1,36 @@
+# base44-projects
+
+> HTML list shelf for Base44 apps. Sister of base44.
+
+## Purpose
+Give a plain-language door to fitzyracing1/base44-projects.
+
+## How it works (plain English)
+1. Keep the original repo as the project list.
+2. Use this clone to explain the idea.
+3. Send the reader to base44 for the core, or to a named app.
+
+## Key ideas
+- Base44 projects (the list)
+- HTML source
+
+## The actual code
+```
+# source: fitzyracing1/base44-projects
+open_source()
+```
+
+## Line-by-line translation
+1. open_source() → “go to fitzyracing1/base44-projects”
+
+## Decisions the program makes
+- If a reader wants the core → base44
+
+## What a person would notice
+A named wrap on a project-list door.
+
+## Current status
+Barrage clone.
+
+## Next possible steps
+Open the source, or base44.
